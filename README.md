@@ -1,5 +1,5 @@
-Ephi
-Talented Developer
-dc28/2025
-# JCA-Firstday
+git&github practical
+Developer
+Jedan code Acadmy
+Ephi# JCA-Firstday
 Jca
